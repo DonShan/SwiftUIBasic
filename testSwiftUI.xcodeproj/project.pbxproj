@@ -11,6 +11,7 @@
 		4DF1DF1C2B2605F7005106A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1DF1B2B2605F7005106A4 /* ContentView.swift */; };
 		4DF1DF1E2B2605FA005106A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF1DF1D2B2605FA005106A4 /* Assets.xcassets */; };
 		4DF1DF212B2605FA005106A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF1DF202B2605FA005106A4 /* Preview Assets.xcassets */; };
+		4DF1DF282B26A675005106A4 /* Gradiants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1DF272B26A675005106A4 /* Gradiants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4DF1DF1B2B2605F7005106A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4DF1DF1D2B2605FA005106A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DF1DF202B2605FA005106A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DF1DF272B26A675005106A4 /* Gradiants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradiants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				4DF1DF192B2605F7005106A4 /* testSwiftUIApp.swift */,
+				4DF1DF272B26A675005106A4 /* Gradiants.swift */,
 				4DF1DF1B2B2605F7005106A4 /* ContentView.swift */,
 				4DF1DF1D2B2605FA005106A4 /* Assets.xcassets */,
 				4DF1DF1F2B2605FA005106A4 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DF1DF282B26A675005106A4 /* Gradiants.swift in Sources */,
 				4DF1DF1C2B2605F7005106A4 /* ContentView.swift in Sources */,
 				4DF1DF1A2B2605F7005106A4 /* testSwiftUIApp.swift in Sources */,
 			);
