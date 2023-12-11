@@ -9,7 +9,30 @@ import SwiftUI
 
 struct Gradiants: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            RoundedRectangle(cornerRadius: 25)
+                .fill(
+                   // Color.blue
+                    LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue, Color.orange, Color.yellow]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                )
+            .frame(width: 250, height: 150)
+            
+            RoundedRectangle(cornerRadius: 20)
+                .fill(
+                    RadialGradient(gradient: Gradient(colors: [Color.red, Color.yellow]),
+                                   center: .center,
+                                   startRadius: 1,
+                                   endRadius: 100)
+                )
+                .frame(width: 300, height: 150)
+            
+           RoundedRectangle(cornerRadius: 25)
+                .fill(
+                    AngularGradient(gradient: Gradient(colors: [Color.green, Color.purple]), center: .center, angle: .degrees(45))
+                )
+                .frame(width: 250, height: 150)
+        }
+       
     }
 }
 
