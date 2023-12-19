@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4D0D1E5F2B3069B500A407D9 /* backgroundsandoverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0D1E5E2B3069B500A407D9 /* backgroundsandoverlays.swift */; };
 		4D0D1E612B306EBE00A407D9 /* overlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0D1E602B306EBE00A407D9 /* overlays.swift */; };
+		4D0D1E632B31313F00A407D9 /* overlaysandbackgroundspractical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0D1E622B31313F00A407D9 /* overlaysandbackgroundspractical.swift */; };
 		4DF1DF1A2B2605F7005106A4 /* testSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1DF192B2605F7005106A4 /* testSwiftUIApp.swift */; };
 		4DF1DF1C2B2605F7005106A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF1DF1B2B2605F7005106A4 /* ContentView.swift */; };
 		4DF1DF1E2B2605FA005106A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF1DF1D2B2605FA005106A4 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		4D0D1E5E2B3069B500A407D9 /* backgroundsandoverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundsandoverlays.swift; sourceTree = "<group>"; };
 		4D0D1E602B306EBE00A407D9 /* overlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = overlays.swift; sourceTree = "<group>"; };
+		4D0D1E622B31313F00A407D9 /* overlaysandbackgroundspractical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = overlaysandbackgroundspractical.swift; sourceTree = "<group>"; };
 		4DF1DF162B2605F7005106A4 /* testSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DF1DF192B2605F7005106A4 /* testSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testSwiftUIApp.swift; sourceTree = "<group>"; };
 		4DF1DF1B2B2605F7005106A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				4DF1DF2B2B27F263005106A4 /* Images.swift */,
 				4DF1DF2D2B289283005106A4 /* frams.swift */,
 				4D0D1E5E2B3069B500A407D9 /* backgroundsandoverlays.swift */,
+				4D0D1E622B31313F00A407D9 /* overlaysandbackgroundspractical.swift */,
 				4DF1DF1D2B2605FA005106A4 /* Assets.xcassets */,
 				4DF1DF1F2B2605FA005106A4 /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 				4DF1DF2E2B289283005106A4 /* frams.swift in Sources */,
 				4D0D1E5F2B3069B500A407D9 /* backgroundsandoverlays.swift in Sources */,
 				4DF1DF1C2B2605F7005106A4 /* ContentView.swift in Sources */,
+				4D0D1E632B31313F00A407D9 /* overlaysandbackgroundspractical.swift in Sources */,
 				4D0D1E612B306EBE00A407D9 /* overlays.swift in Sources */,
 				4DF1DF1A2B2605F7005106A4 /* testSwiftUIApp.swift in Sources */,
 			);
