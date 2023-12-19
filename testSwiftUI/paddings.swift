@@ -26,7 +26,7 @@ struct paddings: View {
         }
  
         .padding()
-        .padding(.vertical, 0)
+        .padding(.vertical, 30)
         .background(
             Color.red
                 .cornerRadius(10)
